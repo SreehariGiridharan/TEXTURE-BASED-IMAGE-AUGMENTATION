@@ -4,10 +4,10 @@ An AR implemented App which detect textures on flat object and overlayed new ima
 
 ## How to run
 
-- Clone the project from here - https://nextcloud.th-deg.de/s/G9HGpbrHScWnKDD
-- Extract the file 
+- Clone the project  
 - Open this project in the unity
-- Run in play mode
+- Build the APk app
+- Install in an android phone and enjoy
 
 ## Software used
 
