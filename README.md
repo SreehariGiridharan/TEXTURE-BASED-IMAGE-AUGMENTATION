@@ -31,7 +31,7 @@ An AR implemented App which detect textures on flat object and overlayed new ima
 
 ## Video
 
-[![Thumbnail](https://i9.ytimg.com/vi_webp/Hsjaq8WZtv0/mq2.webp?sqp=CPSA8K0G-oaymwEoCMACELQB8quKqQMcGADwAQH4AcQEgAKACooCDAgAEAEYciBYKDkwDw%3D%3D&rs=AOn4CLA7AjbSUzKPiePW5YLKzePLLVtX8w&retry=3)](https://youtube.com/shorts/Hsjaq8WZtv0?feature=share)
+[![Thumbnail](https://i9.ytimg.com/vi/Hsjaq8WZtv0/sddefault.jpg?sqp=CJipgK4G-oaymwEoCIAFEOAD8quKqQMcGADwAQH4AcQEgAKACooCDAgAEAEYciBYKDkwDw==&rs=AOn4CLAHleBigTacwwtRGHoRt0YCZHEZ1w)](https://youtube.com/shorts/Hsjaq8WZtv0?feature=share)
 
 Enjoy the video!
 
